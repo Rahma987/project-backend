@@ -1,0 +1,23 @@
+{
+  "name": "summerproject-backend",
+  "version": "1.0.0",
+  "description": "*.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahma987/summerproject-backend.git"
+  },
+  "author": "rahmaS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahma987/summerproject-backend/issues"
+  },
+  "homepage": "https://github.com/Rahma987/summerproject-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
